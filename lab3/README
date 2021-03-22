@@ -1,0 +1,19 @@
+Artheeckkumarran Shanmugalingam 500895150
+My insertion sort seems to be fine however my merg Sort has a problem with a logic error.
+I was not able to finish my mergeSort 
+
+
+
+
+Insertion Sort Analysis Cases
+
+Best-O(n)
+Average- O(n^2)
+Worst- O(n^2)
+
+
+Merge Sort Analysis Cases
+
+Best- O(nlogn)
+Average- O(nlogn)
+Worst- O(nlogn)
